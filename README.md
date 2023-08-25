@@ -1,6 +1,7 @@
 # LangChainApp
  
-this is a tutorial that uses openAI API to make a streamlit webapp 
+this is a tutorial that uses openAI API to make a streamlit webapp local Chatgpt 
+this tutorial will be first of series of tutorials to make a private chat gpt with your own pdfs and documents 
 installs all required libraries using the yaml file 
 if you get any issues installing the chromadb lib
 using the micrsoft builder install those two individual components : 
