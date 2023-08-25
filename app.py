@@ -1,5 +1,4 @@
 import os
-from apikey import apikey
 import streamlit as st
 from langchain.llms import OpenAI
 from langchain.prompts import PromptTemplate
@@ -7,7 +6,7 @@ from langchain.chains import LLMChain, SimpleSequentialChain, SequentialChain
 from langchain.memory import ConversationBufferMemory
 from langchain.utilities import WikipediaAPIWrapper
 
-os.environ['OPENAI_API_KEY'] = apikey
+os.environ['OPENAI_API_KEY'] = 'Your OPENAI API key can be found here: https://openai.com/blog/openai-api'
 #app framework
 st.title('GeideaGPT')
 prompt = st.text_input('Plug in your prompt here')
