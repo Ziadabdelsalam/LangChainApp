@@ -6,7 +6,7 @@ installs all required libraries using the yaml file
 if you get any issues installing the chromadb lib
 using the micrsoft builder install those two individual components : \
 1/MSVC v143 - VS 2022 C++ x64/x86 build tools (latest)\
-2/Windows 10 SDK\
+2/Windows 10 SDK
 then restart your pc and it should be solved 
 
 Remember to replace openAI Api key with yours\
