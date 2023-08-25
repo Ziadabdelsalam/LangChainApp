@@ -1,0 +1,7 @@
+name: my_script_dependencies
+channels:
+  - conda-forge
+dependencies:
+  - streamlit
+  - langchain
+  - openai
