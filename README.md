@@ -11,4 +11,17 @@ then restart your pc and it should be solved
 Remember to replace openAI Api key with yours
 uses sequential chains to pass titles to script then to wikipedia search 
 
+
+
+
+to run the script use this command
+streamlit run app.py
+
+
+
+
+
+
+
+
 credits: https://www.youtube.com/watch?v=hMJgdVJWQRU
